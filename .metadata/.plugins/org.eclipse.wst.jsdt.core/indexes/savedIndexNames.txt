@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\jrmac\Desktop\PROTO\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2975820493.index
+4241242738.index
+3371649140.index
+19968782.index
+2029544940.index
+3505090401.index
+1360997734.index
+1939065279.index

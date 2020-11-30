@@ -1,0 +1,19 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="container">
+            <div class="header clearfix">
+                <nav>
+                    <ul class="nav nav-pills float-right">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="index.jsp">inicio<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="sobre.jsp" style="background-color: rgb(0, 123, 255); color: rgb(255, 255, 255);">Sobre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="disciplinas.jsp" style="color: rgb(255, 255, 255); background-color: rgb(0, 123, 255);">Lista de disciplinas</a>
+                        </li>
+                    </ul>
+                </nav>
+                <h3 class="text-muted">Lista de Disciplinas</h3>
+            </div>
